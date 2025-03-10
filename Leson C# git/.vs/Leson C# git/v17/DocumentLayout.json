@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Repo_GitKraken\\C-_Leson\\Leson C# git\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{72380948-E327-4E3E-9B8E-FC19E1B77445}|Leson C# git\\Leson C# git.csproj|f:\\repo_gitkraken\\c-_leson\\leson c# git\\leson c# git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72380948-E327-4E3E-9B8E-FC19E1B77445}|Leson C# git\\Leson C# git.csproj|solutionrelative:leson c# git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,25 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Repo_GitKraken\\C-_Leson\\Leson C# git\\Leson C# git\\Program.cs",
-              "RelativeDocumentMoniker": "Leson C# git\\Program.cs",
-              "ToolTip": "F:\\Repo_GitKraken\\C-_Leson\\Leson C# git\\Leson C# git\\Program.cs",
-              "RelativeToolTip": "Leson C# git\\Program.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
->>>>>>> origin/main
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:36:50.631Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
