@@ -1,0 +1,15 @@
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\bin\Debug\net8.0\Leson C# git.exe
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\bin\Debug\net8.0\Leson C# git.deps.json
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\bin\Debug\net8.0\Leson C# git.runtimeconfig.json
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\bin\Debug\net8.0\Leson C# git.dll
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\bin\Debug\net8.0\Leson C# git.pdb
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\Leson C# git.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\Leson C# git.AssemblyInfoInputs.cache
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\Leson C# git.AssemblyInfo.cs
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\Leson C# git.csproj.CoreCompileInputs.cache
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\Leson C# git.sourcelink.json
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\Leson C# git.dll
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\refint\Leson C# git.dll
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\Leson C# git.pdb
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\Leson C# git.genruntimeconfig.cache
+F:\Repo_GitKraken\C-_Leson\Leson C# git\Leson C# git\obj\Debug\net8.0\ref\Leson C# git.dll
