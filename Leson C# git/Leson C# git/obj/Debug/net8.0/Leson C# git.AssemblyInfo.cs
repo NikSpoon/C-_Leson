@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leson C# git")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+658dcce7ddddd750bd254eb7010968351b0c3081")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98c4b6798e4cacc87d451823fb73426a8995028e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leson C# git")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leson C# git")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
